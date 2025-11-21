@@ -19,10 +19,13 @@ A simple application built with **React Native** and **Expo**.
    git clone https://github.com/your-username/react-native-notes-app.git
    cd react-native-notes-app
 2. Install dependencies:
+   ```bash
    npm install
-3. Install required Expo packages:
+4. Install required Expo packages:
+   ```bash
    npx expo install @react-native-async-storage/async-storage expo-image-picker react-native-safe-area-context react-native-screens @react-navigation/native @react-navigation/native-stack @react-navigation/bottom-tabs
-5. Start the project:
+6. Start the project:
+   ```bash
    npx expo start
 
 ## 📸 Usage
